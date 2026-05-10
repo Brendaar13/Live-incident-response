@@ -9,7 +9,7 @@ Este repositorio contiene el informe detallado de un incidente de seguridad en t
 - **Exfiltración:** Datos sensibles enviados mediante HTTP POST a IP externa.
 
 ## Contenido del Repositorio
-- [📄 Reporte Completo en PDF]
+- [📄 Reporte Completo en PDF](./Live_Incident_Report.pdf)
 
 ## Habilidades Demostradas
 - Análisis forense de logs y sistemas de archivos Linux.
